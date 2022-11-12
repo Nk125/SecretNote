@@ -1,2 +1,6 @@
 # SecretNote
 Diary/Note Manager in C++ using console
+
+Una disculpa si el resto del readme está en español (siempre puedes usar [google traductor](https://translate.google.com/) para traducirlo al inglés), el caso es que quería hacer un sistema que pudiese almacenar datos de forma rápida y que al tiempo los encriptara, usaría AES en estos casos, pero como la excusa del programa es que es para hacer notas (puedes escribir de forma cronológica notas, así que es más bien un diario) y lo usarían personas que no necesariamente tendrían/crearían contraseñas de 8-32 caracteres, si no contraseñas personalizadas, decidi por usar un sistema simple de XOR, por muy anticuado que suene hacer eso, es mejor que dejarle tus notas y entradas de un diario a un desconocido o directamente sin encriptar, es mejor a nada.
+
+Siguiendo, sentí que necesitaba hacer este programa, estaba pensando seriamente en hacer un diario de mi persona, para mí mismo, una entrada en un subreddit me hizo pensar que escribiendo en un diario podría ver cómo es mi evolución mental a través de la redacción, y que mejor que almacenarlo en forma digital y encriptado por algo que yo mismo hice!, pero también quería dejar que las demás personas pudieran hacer su propio diario en base a mi programa, así que aquí estamos, liberando mi proyecto el mismo día que lo empecé a desarrollar y terminé.
